@@ -11,4 +11,4 @@ function twoSum($nums,$target){
     return [0,0];
 }
 
-echo twoSum(    [3,2,4], 6);
+echo twoSum([3,2,4], 6);
